@@ -3,13 +3,13 @@ A utility function to convert JSON objects to dotnotation
 
 ## Installation
 ```shell
-$ npm i dotnotate
+$ npm i @zishone/dotnotate
 ```
 
 ## Usage
 ### 1. Import dotnotate
 ```javascript
-const { dotnotate } = require('dotnotate');
+const { dotnotate } = require('@zishone/dotnotate');
 ```
 ### 2. Dotnotate
 ```javascript

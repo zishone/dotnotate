@@ -1,5 +1,5 @@
 {
-  "name": "dotnotate",
+  "name": "@zishone/dotnotate",
   "version": "0.1.0",
   "description": "A utility function to convert JSON objects to dotnotation",
   "main": "dist/index.js",
