@@ -1,0 +1,1 @@
+export { dotnotate } from './dotnotate';
