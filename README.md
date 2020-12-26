@@ -1,4 +1,4 @@
-# dotnotate [![NPM](https://img.shields.io/npm/v/dotnotate)](https://www.npmjs.com/package/dotnotate) [![Build](https://github.com/zishone/dotnotate/workflows/build/badge.svg)](https://github.com/zishone/dotnotate/actions?query=workflow%3Abuild) [![Coverage](https://codecov.io/gh/zishone/dotnotate/branch/master/graph/badge.svg)](https://codecov.io/gh/zishone/dotnotate) [![License](https://img.shields.io/github/license/zishone/dotnotate)](https://github.com/zishone/dotnotate/blob/master/LICENSE)
+# dotnotate [![NPM](https://img.shields.io/npm/v/dotnotate)](https://www.npmjs.com/package/dotnotate) [![Build](https://github.com/zishone/dotnotate/workflows/build/badge.svg)](https://github.com/zishone/dotnotate/actions?query=workflow%3Abuild) [![codecov](https://codecov.io/gh/zishone/dotnotate/branch/main/graph/badge.svg?token=ZTGMHRjFc3)](https://codecov.io/gh/zishone/dotnotate) [![License](https://img.shields.io/github/license/zishone/dotnotate)](https://github.com/zishone/dotnotate/blob/master/LICENSE)
 A utility function to convert JSON objects to dotnotation
 
 ## Installation
