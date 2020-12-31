@@ -1,13 +1,13 @@
 {
   "name": "@zishone/dotnotate",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A utility function to convert JSON objects to dotnotation",
   "main": "dist/index.js",
   "files": [
     "dist"
   ],
   "directories": {
-    "test": "test"
+    "test": "tests"
   },
   "scripts": {
     "cleanup": "rimraf dist && rimraf coverage && rimraf .nyc_output && rimraf docs",
